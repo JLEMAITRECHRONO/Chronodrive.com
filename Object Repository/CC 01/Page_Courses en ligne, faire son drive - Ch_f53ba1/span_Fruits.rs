@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fruits</name>
+   <tag></tag>
+   <elementGuidId>5f48e689-b407-4934-a31e-cbc665398eb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-category-16482633']/div/div/div/ul/li/button/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-category-16482633 > div.wrapper > div.ui-wrapper > div.level-2-content > ul.entries > li > button.nav-link.-variant-2 > div.inner > p.text > span.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>31a02190-eef6-4362-a15a-159bc815dcbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2bd17ce7-5c00-42dd-8cb5-a33848e8a36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fruits</value>
+      <webElementGuid>76b80d67-ea4c-4524-978c-195a3c0688a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-category-16482633&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;ui-wrapper&quot;]/div[@class=&quot;level-2-content&quot;]/ul[@class=&quot;entries&quot;]/li[1]/button[@class=&quot;nav-link -variant-2&quot;]/div[@class=&quot;inner&quot;]/p[@class=&quot;text&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>d33894c7-8cef-43af-895f-3ed0fbc1a2de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-category-16482633']/div/div/div/ul/li/button/div/p/span</value>
+      <webElementGuid>2fc4edf1-1935-40c3-9805-4ab6514d3a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fruits &amp; Légumes'])[2]/following::span[1]</value>
+      <webElementGuid>aa9ea7c9-5dc3-4e03-b752-c6b25aefdf73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='retour à la navigation précédente'])[19]/following::span[1]</value>
+      <webElementGuid>6e386e3c-5e1a-41c6-8e2c-a7d40a72dfaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Légumes'])[1]/preceding::span[1]</value>
+      <webElementGuid>008eaa29-3c0d-495f-8169-c6a9d7d348e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Légumes prêts à l', &quot;'&quot;, 'emploi et fruits secs')])[1]/preceding::span[2]</value>
+      <webElementGuid>26abcbab-91d5-4dc9-b37a-67bb18e393d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/ul/li/button/div/p/span</value>
+      <webElementGuid>bce7e55c-7913-4569-a5cb-63e8a029a3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fruits' or . = 'Fruits')]</value>
+      <webElementGuid>ecb8b332-ef0f-411a-8285-08485b571821</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

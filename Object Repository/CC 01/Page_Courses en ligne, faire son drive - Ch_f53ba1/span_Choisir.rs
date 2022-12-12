@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Choisir</name>
+   <tag></tag>
+   <elementGuidId>b839ceaf-064a-443e-a4e9-a69448f2001c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[6]/div/div/div/div/div[2]/div/ul/li/div/div[2]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.locator-item > div.actions > button.ui-cta.-layout-solid.-size-m.-variant-1 > span.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a982ce48-862e-430b-917e-ea2ab34c1d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d4ea22f9-8b74-4f84-a0e0-ce76e21df647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choisir</value>
+      <webElementGuid>cfe21631-c00f-4e88-9019-f29565950803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vue-portal-target-anBvVME68_1CKvB1oAhqt&quot;)/div[6]/div[@class=&quot;overlay-modal overlay-store-locator -no-overflow -variant-4 -no-footer&quot;]/div[@class=&quot;overlay-inner&quot;]/div[@class=&quot;overlay-content&quot;]/div[@class=&quot;store-locator -list&quot;]/div[@class=&quot;locator-aside&quot;]/div[@class=&quot;locator-list&quot;]/ul[1]/li[1]/div[@class=&quot;locator-item&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;ui-cta -layout-solid -size-m -variant-1&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>33e89a7a-44ab-42ff-84d0-63a8f9aa8f6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[6]/div/div/div/div/div[2]/div/ul/li/div/div[2]/button[2]/span</value>
+      <webElementGuid>8b952199-4de0-4347-87cb-bc6e288914ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info magasin'])[1]/following::span[1]</value>
+      <webElementGuid>2d1a3821-47b8-4bf6-a449-6461581bc552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voir la liste des magasins'])[1]/following::span[2]</value>
+      <webElementGuid>a2bca466-34de-4317-8f8d-d99974c95e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info magasin'])[2]/preceding::span[1]</value>
+      <webElementGuid>cd6a431b-3c05-4460-9106-29a779b78110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choisir'])[2]/preceding::span[2]</value>
+      <webElementGuid>912051e5-ce67-4219-aa9d-878a927ce4c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]/button[2]/span</value>
+      <webElementGuid>81a2bbcf-1728-4d76-89b2-cae48f5c7944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Choisir' or . = 'Choisir')]</value>
+      <webElementGuid>31a2a147-1a2d-4e29-98ff-d93316f468ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

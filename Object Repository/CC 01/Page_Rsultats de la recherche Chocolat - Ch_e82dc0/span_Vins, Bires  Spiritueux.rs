@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vins, Bires  Spiritueux</name>
+   <tag></tag>
+   <elementGuidId>15ba6da3-2c3c-4b66-a6cb-b53c72f87243</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-navigation']/nav/div/div/div/ul/li[12]/button/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2bd8247a-3cb5-41e5-ace6-0ca356b6ad40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>306ad90b-04d0-439b-b3c8-bd2eb7e706e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vins, Bières &amp; Spiritueux </value>
+      <webElementGuid>345a0468-171f-45d3-91c6-e0a4bb32825a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-navigation&quot;)/nav[@class=&quot;nav&quot;]/div[@class=&quot;navigation-level-1&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/div[@class=&quot;level-1-content&quot;]/ul[@class=&quot;entries&quot;]/li[12]/button[@class=&quot;nav-link -variant-1&quot;]/div[@class=&quot;inner&quot;]/p[@class=&quot;text&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>d87dea97-1265-477a-981f-7adb5a7fd13e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-navigation']/nav/div/div/div/ul/li[12]/button/div/p/span</value>
+      <webElementGuid>ac4a41b9-718e-4c94-9e63-5901ad7b603f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boissons sans alcool'])[1]/following::span[1]</value>
+      <webElementGuid>a29a5550-1d27-4b27-9a72-c0610a46dd80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Epicerie sucrée'])[1]/following::span[2]</value>
+      <webElementGuid>3012e5cf-3b00-4a49-b41b-6d094651c0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bébé'])[1]/preceding::span[1]</value>
+      <webElementGuid>18107533-6c7d-45b3-8ae0-6bd9cd6f754d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parapharmacie'])[1]/preceding::span[2]</value>
+      <webElementGuid>d447b643-1de0-4318-b779-9ee168402c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]/button/div/p/span</value>
+      <webElementGuid>57f729db-2db1-45f0-8ec9-bec74870f47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vins, Bières &amp; Spiritueux ' or . = 'Vins, Bières &amp; Spiritueux ')]</value>
+      <webElementGuid>fe82a590-b6a3-424c-b0e5-b7ce1afb2337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Favoris</name>
+   <tag></tag>
+   <elementGuidId>4cc07b77-014f-4675-b8e4-3cc1014a7dd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/header/div/div/div[3]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ef3a033-4d37-467f-acb4-33318c65954f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Favoris</value>
+      <webElementGuid>14ef00f8-ce78-4cf3-80a3-aa4857b83824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;chronodrive-app&quot;]/header[@class=&quot;site-header&quot;]/div[@class=&quot;header-banner&quot;]/div[@class=&quot;ui-wrapper&quot;]/div[@class=&quot;header-actions&quot;]/a[@class=&quot;cta -desktop-only&quot;]/span[2]</value>
+      <webElementGuid>164c6447-5714-4e24-b8d9-b685cb8ab82b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/header/div/div/div[3]/a/span[2]</value>
+      <webElementGuid>7b342833-0294-46d0-80ff-23648b11e663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réinitialiser'])[1]/following::span[2]</value>
+      <webElementGuid>18b58f61-f6aa-475e-a363-ac25aabff5ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rechercher'])[1]/following::span[3]</value>
+      <webElementGuid>16c04856-6098-45e0-955e-38f250ff1181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compte'])[1]/preceding::span[2]</value>
+      <webElementGuid>65961175-4cfa-41d8-9e77-f6d74e2b5f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/preceding::span[3]</value>
+      <webElementGuid>e326f543-1fdc-428b-ab23-a560935aa393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span[2]</value>
+      <webElementGuid>cbf3bf33-cd50-4e4c-9f5a-b40e64a142bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Favoris' or . = 'Favoris')]</value>
+      <webElementGuid>b20f701e-1467-47cd-b2f7-8f65d2d30ddb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

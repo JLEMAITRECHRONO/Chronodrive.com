@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>chemin critique 01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ada014c-7297-4e64-bf44-487aeb560f92</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d4fc67d-a512-47f3-b4d3-e5594b7cecec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d4fc67d-a512-47f3-b4d3-e5594b7cecec</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fruits  Lgumes</name>
+   <tag></tag>
+   <elementGuidId>d3f17676-d4bd-4726-b881-0bb6649637f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/div/div/nav/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46506eef-66fe-4285-89f4-59b1ffcc601d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fruits &amp; Légumes</value>
+      <webElementGuid>bf791fb8-43c2-48b7-bc9f-d85202804eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;page-layout product-page&quot;]/div[@class=&quot;product-sheet&quot;]/div[@class=&quot;product-sheet-header&quot;]/div[@class=&quot;product-breadcrumb&quot;]/nav[@class=&quot;site-breadcrumb&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/ul[1]/li[2]/a[1]/span[1]</value>
+      <webElementGuid>89bd6a27-13b6-4bb7-aed4-d003aaa29a47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/div/div/nav/div/ul/li[2]/a/span</value>
+      <webElementGuid>b7e2ecf7-c9bc-4cbd-b538-6430efb278a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accueil'])[2]/following::span[1]</value>
+      <webElementGuid>aa60adc5-2f91-46e6-87ed-d7004bd491e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tous les produits'])[87]/following::span[1]</value>
+      <webElementGuid>700d6d36-1157-49c5-9691-daa41038bc90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fruits'])[3]/preceding::span[1]</value>
+      <webElementGuid>8acdb23a-7bf8-41d8-bd2c-b6cb3e6454d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Raisins'])[2]/preceding::span[2]</value>
+      <webElementGuid>aa66be0f-bcd0-4bf9-90ae-295dd9b462eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[2]/a/span</value>
+      <webElementGuid>1ed925d4-445e-4584-9fe3-bd8f4312e414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fruits &amp; Légumes' or . = 'Fruits &amp; Légumes')]</value>
+      <webElementGuid>b65bf814-6ca4-4754-811b-7832793a1340</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

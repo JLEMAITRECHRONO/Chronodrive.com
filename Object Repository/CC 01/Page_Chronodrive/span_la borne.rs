@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_la borne</name>
+   <tag></tag>
+   <elementGuidId>28e71a93-e4da-4483-8cd0-40c527908d42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='payment-form']/ul/li[5]/label/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d989bbf5-45c8-4e7f-9ac3-152580e877dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>À la borne</value>
+      <webElementGuid>c896d910-d3b4-4d79-8efb-209734f7e3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-form&quot;)/ul[@class=&quot;overlay-payment-list&quot;]/li[5]/label[@class=&quot;list-item-radio -variant-2&quot;]/span[@class=&quot;list-item-radio-label&quot;]/span[1]</value>
+      <webElementGuid>38f87058-a1a4-4f9b-9426-e0348b9ef5cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='payment-form']/ul/li[5]/label/span[2]/span</value>
+      <webElementGuid>b2029e75-07ef-4fa3-ac72-f0d037524f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='American Express'])[1]/following::span[5]</value>
+      <webElementGuid>0b55f367-5af1-49b4-b943-2b872510d4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MasterCard'])[1]/following::span[10]</value>
+      <webElementGuid>7d1b9e1c-94a2-4e62-9410-3d89a2e086c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/label/span[2]/span</value>
+      <webElementGuid>059cd884-0428-4601-ae3e-47ff0f33a2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'À la borne' or . = 'À la borne')]</value>
+      <webElementGuid>b847ba57-55cb-478e-8014-217a15b424e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

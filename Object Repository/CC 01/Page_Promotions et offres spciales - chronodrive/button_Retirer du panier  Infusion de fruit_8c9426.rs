@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Retirer du panier  Infusion de fruit_8c9426</name>
+   <tag></tag>
+   <elementGuidId>9a0b4fc9-0471-4ee1-b8bb-7ac0b563cc98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[288]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e51c8f15-cbf3-4d33-adff-e54212f7fb58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>902a79ea-53c8-4ad0-9f69-1f9f193680ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-stepper-remove cta-cart</value>
+      <webElementGuid>692bc3bb-cf34-4fe1-98ec-6d6812791d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Retirer du panier  Infusion de fruits rouges</value>
+      <webElementGuid>aaf8c036-9906-4095-af04-e8edbeee30aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vue-portal-target-anBvVME68_1CKvB1oAhqt&quot;)/div[3]/div[@class=&quot;overlay-modal mini-cart -variant-3 -scrolling&quot;]/div[@class=&quot;overlay-inner&quot;]/div[@class=&quot;overlay-content&quot;]/dl[@class=&quot;product-group -variant-1&quot;]/dd[1]/article[@class=&quot;product-card -layout-landscape -clickable&quot;]/div[@class=&quot;card-inner&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-main&quot;]/div[@class=&quot;product-actions -variant-1&quot;]/div[@class=&quot;product-actions-info&quot;]/div[@class=&quot;cart-stepper -active -animating&quot;]/p[@class=&quot;cart-stepper-container&quot;]/button[@class=&quot;cart-stepper-remove cta-cart&quot;]</value>
+      <webElementGuid>d3353808-71d9-4bec-b7be-4b5c9b9ff574</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[288]</value>
+      <webElementGuid>6792f58d-8f67-49ee-9a49-704985c546fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[3]/div/div/div/dl[2]/dd/article/div[2]/div/div[2]/div[2]/div[2]/div/p/button</value>
+      <webElementGuid>6359e41b-f858-4b0a-90ef-b05dd449e6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cagnotté'])[11]/following::button[1]</value>
+      <webElementGuid>20237347-6213-4c76-b894-af213375f3a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=',99€'])[4]/following::button[1]</value>
+      <webElementGuid>26443072-31df-45b4-97ed-96efacaa2d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantité :'])[19]/preceding::button[1]</value>
+      <webElementGuid>e135346c-e0e6-4c97-82ef-5f3d518d6d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd/article/div[2]/div/div[2]/div[2]/div[2]/div/p/button</value>
+      <webElementGuid>e61e2bda-a100-4ab1-b8e0-7f7c3f69e179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Retirer du panier  Infusion de fruits rouges' or . = ' Retirer du panier  Infusion de fruits rouges')]</value>
+      <webElementGuid>ce5a7f7e-c26f-48a7-8b0f-5fea8295c624</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

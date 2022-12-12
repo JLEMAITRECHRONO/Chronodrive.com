@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pour naviguer, appuyez sur les touches flches</name>
+   <tag></tag>
+   <elementGuidId>07e9fda8-0ace-45c8-bbd1-2bab251edf8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13aeb18f-d72f-4853-ba9c-2c665382e4b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pour naviguer, appuyez sur les touches fléchées.</value>
+      <webElementGuid>ceff5b7e-3842-4395-b60a-3bb63b02b99c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vue-portal-target-anBvVME68_1CKvB1oAhqt&quot;)/div[6]/div[@class=&quot;overlay-modal overlay-store-locator -no-overflow -variant-4 -no-footer&quot;]/div[@class=&quot;overlay-inner&quot;]/div[@class=&quot;overlay-content&quot;]/div[@class=&quot;store-locator&quot;]/div[@class=&quot;locator-main&quot;]/div[@class=&quot;map-area&quot;]/div[@class=&quot;locator-map&quot;]/div[@class=&quot;vue-map-container map&quot;]/div[@class=&quot;vue-map&quot;]/div[1]/div[@class=&quot;gm-style&quot;]/div[1]/div[2]</value>
+      <webElementGuid>989535b8-4e9f-4ae1-a14c-0c66d1d2e6f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>f131c4fc-0644-4542-8926-ce72fd5d1200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Géolocalisation'])[2]/following::div[154]</value>
+      <webElementGuid>98609afb-8f9a-440b-8e6a-b7970d31a44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réinitialiser'])[3]/following::div[154]</value>
+      <webElementGuid>56726a1a-4a87-4896-bcc7-2655ae06d2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voir la liste des magasins'])[1]/preceding::div[64]</value>
+      <webElementGuid>a6a7052c-6c6f-4f01-87b0-111a60c8eb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>6d55ac0c-1817-40cb-b060-98e91f22830a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pour naviguer, appuyez sur les touches fléchées.' or . = 'Pour naviguer, appuyez sur les touches fléchées.')]</value>
+      <webElementGuid>b77c56a0-acbf-4caf-9cf4-2d2a4e18a1c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

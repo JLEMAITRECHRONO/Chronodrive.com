@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Lgumes</name>
+   <tag></tag>
+   <elementGuidId>4c386270-0d12-49a2-bd84-f5a30aa58bc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/div[2]/div/ul/li[2]/div/div/a/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>93461e93-03fc-4b29-8554-eb268ad5c888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>listing-section-title-seo</value>
+      <webElementGuid>de93d81e-94ff-4645-a88d-76649da9edd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Légumes
+      </value>
+      <webElementGuid>c10a464f-1be9-49b7-9a77-9e26a7467385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;product-index-page page-layout&quot;]/div[@class=&quot;catalog-index&quot;]/div[@class=&quot;catalog-index-categories&quot;]/div[@class=&quot;ui-wrapper&quot;]/ul[@class=&quot;catalog-index-list&quot;]/li[2]/div[@class=&quot;listing-section&quot;]/div[@class=&quot;listing-section-header&quot;]/a[@class=&quot;listing-section-title-link&quot;]/h2[@class=&quot;listing-section-title-seo&quot;]</value>
+      <webElementGuid>208639d6-678e-45fe-b2cc-8158b816c109</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/div[2]/div/ul/li[2]/div/div/a/h2</value>
+      <webElementGuid>5e6da514-71c4-4ff0-8b2b-549aaf7986ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Légumes'])[5]/following::h2[1]</value>
+      <webElementGuid>a373d640-f8ef-44ef-976d-561fc010592a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voir tout'])[1]/following::h2[1]</value>
+      <webElementGuid>8964c242-f5ae-4807-999c-8e86d34e0866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carottes, poireaux, choux et navets'])[2]/preceding::h2[1]</value>
+      <webElementGuid>224f208f-567c-4e12-9a07-de302550ebb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salades et endives'])[2]/preceding::h2[1]</value>
+      <webElementGuid>c8099e1f-99ef-4c4d-99b0-155cd9b0e9d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/a/h2</value>
+      <webElementGuid>44a99d3a-3d10-4529-9e76-c0b116f09f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '
+        Légumes
+      ' or . = '
+        Légumes
+      ')]</value>
+      <webElementGuid>fa5ce3cd-e8b9-459d-8ce7-0342e2b9b210</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

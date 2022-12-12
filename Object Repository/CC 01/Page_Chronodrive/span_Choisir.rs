@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Choisir</name>
+   <tag></tag>
+   <elementGuidId>105f8584-a106-4dd1-8bd6-171bcf6cb399</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div/form/div/div/div/div[2]/div/button/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.action-card-link > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26b50975-fd06-4140-9f24-0a57598300ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choisir</value>
+      <webElementGuid>564ed997-d86c-4d98-b273-66e82e68b818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;chronodrive-app&quot;]/main[1]/div[@class=&quot;checkout-page page-layout&quot;]/form[@class=&quot;checkout-page-form&quot;]/div[@class=&quot;checkout-layout&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/div[@class=&quot;checkout-layout-content&quot;]/div[@class=&quot;checkout-layout-main&quot;]/div[@class=&quot;ui-wrapper -narrow&quot;]/button[@class=&quot;action-card -variant-1&quot;]/span[@class=&quot;action-card-link&quot;]/span[1]</value>
+      <webElementGuid>3c93824e-cfba-4bc6-af8c-46a49cd3fcea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/form/div/div/div/div[2]/div/button/span[2]/span</value>
+      <webElementGuid>8a923ed8-e181-4ba5-bda0-e8483883b948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon créneau'])[1]/following::span[2]</value>
+      <webElementGuid>edf4264c-b2e2-4fd3-8805-7656eb4c48d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Croix'])[1]/following::span[4]</value>
+      <webElementGuid>5265cf0f-72bf-4b9f-b68a-11d3b91775c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mode de paiement'])[1]/preceding::span[1]</value>
+      <webElementGuid>0582f89b-239e-40ab-8c9c-759464f1bb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choisir'])[2]/preceding::span[3]</value>
+      <webElementGuid>28ecd606-fac0-4fb2-8d5d-bab57738fdbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>63bda60d-af94-4f4a-9252-d849bba1457b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Choisir' or . = 'Choisir')]</value>
+      <webElementGuid>4ce73f7d-c3b3-415e-9609-fe97c9f797e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

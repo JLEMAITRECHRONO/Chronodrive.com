@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_POMME DE TERRE_product-favorite -editable</name>
+   <tag></tag>
+   <elementGuidId>a03e23c2-f266-46f7-8984-57cca63fa585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[225]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.product-favorite.-editable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ad052732-3e32-4e13-ba60-c272722b538c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2ca59645-f5b8-47e3-80bf-4c8508059c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Ajouter ce produit aux favoris</value>
+      <webElementGuid>cadbdb75-d2e3-4c57-9029-e2a5acde7fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-favorite -editable</value>
+      <webElementGuid>8a627083-13f3-43e8-89f5-a5bbb7c6d9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;page-layout product-page&quot;]/div[@class=&quot;product-sheet&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/div[@class=&quot;product-sheet-content&quot;]/div[@class=&quot;product-sheet-main&quot;]/div[@class=&quot;ui-wrapper&quot;]/div[@class=&quot;product-sheet-block -with-card&quot;]/article[@class=&quot;product-card -layout-portrait-sheet&quot;]/div[@class=&quot;card-inner&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-main&quot;]/button[@class=&quot;product-favorite -editable&quot;]</value>
+      <webElementGuid>2e0d761f-ef8b-4eea-882b-414f2386b7f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[225]</value>
+      <webElementGuid>9c57fc5f-dcd7-4937-a857-eb4ea11c4c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/div[2]/div/div[2]/div/div/article/div/div/div/button</value>
+      <webElementGuid>04cc2a6b-6cb9-4707-b8e1-f8af7447a004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POMME DE TERRE'])[1]/following::button[1]</value>
+      <webElementGuid>f3530454-6593-4119-ae0a-c2818ba79e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poids ou quantité :'])[1]/preceding::button[1]</value>
+      <webElementGuid>49357213-c379-4f36-995d-63cd3ce190d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prix au kg ou au litre :'])[1]/preceding::button[1]</value>
+      <webElementGuid>c1ee1160-1608-434e-ac98-7eb5fd3dd359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/button</value>
+      <webElementGuid>f864d72e-f836-4889-8c5c-a2e3635d636a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>44fb3b89-14fe-4638-945d-77f8630c3bc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

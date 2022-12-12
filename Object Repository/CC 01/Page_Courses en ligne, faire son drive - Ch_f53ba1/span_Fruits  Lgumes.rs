@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fruits  Lgumes</name>
+   <tag></tag>
+   <elementGuidId>d9f1edde-dfaf-4c5c-85ca-39a8838aa905</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-navigation']/nav/div/div/div/ul/li[4]/button/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17343baa-dadf-48e2-a2c0-db0ad94338be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>55305d77-bf6f-4683-af80-f79bee7bf6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fruits &amp; Légumes</value>
+      <webElementGuid>d9a16eb5-f316-422b-bf22-8bd5bbb73d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-navigation&quot;)/nav[@class=&quot;nav&quot;]/div[@class=&quot;navigation-level-1&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/div[@class=&quot;level-1-content&quot;]/ul[@class=&quot;entries&quot;]/li[4]/button[@class=&quot;nav-link -variant-1&quot;]/div[@class=&quot;inner&quot;]/p[@class=&quot;text&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>3e008e1a-55ab-45b6-ac2e-8c81045f2ee4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-navigation']/nav/div/div/div/ul/li[4]/button/div/p/span</value>
+      <webElementGuid>e2bc0656-92f9-44b7-9f77-1bb8d4184acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bio &amp; Ecolo'])[1]/following::span[1]</value>
+      <webElementGuid>af6f6686-1327-4f27-ad69-3920466864f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Les Mythiques'])[1]/following::span[2]</value>
+      <webElementGuid>089024a1-3cb9-419e-8e36-5a9f4cf504f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poissons &amp; Viandes'])[1]/preceding::span[1]</value>
+      <webElementGuid>35937440-2aaf-405f-9eb5-2f88fdb76ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produits laitiers &amp; Oeufs'])[1]/preceding::span[2]</value>
+      <webElementGuid>15d1819c-8fa5-45ef-b2c9-3b5cefac8d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/button/div/p/span</value>
+      <webElementGuid>18c95e26-d370-4717-b976-19c623b5cd70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fruits &amp; Légumes' or . = 'Fruits &amp; Légumes')]</value>
+      <webElementGuid>66d506d5-dc6a-4b3a-8e60-c42ea0856a3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

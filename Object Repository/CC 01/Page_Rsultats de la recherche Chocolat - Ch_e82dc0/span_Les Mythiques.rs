@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Les Mythiques</name>
+   <tag></tag>
+   <elementGuidId>4451aa91-3566-4edc-9c65-1e6e5997678e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-navigation']/nav/div/div/div/ul/li[2]/button/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>58b726de-8cd2-40d8-9155-862db337e042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ed618667-7c4a-4d7b-94db-585bc8325348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Les Mythiques</value>
+      <webElementGuid>057be31b-a377-47ff-9581-696a14171e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-navigation&quot;)/nav[@class=&quot;nav&quot;]/div[@class=&quot;navigation-level-1&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/div[@class=&quot;level-1-content&quot;]/ul[@class=&quot;entries&quot;]/li[2]/button[@class=&quot;nav-link -variant-1&quot;]/div[@class=&quot;inner&quot;]/p[@class=&quot;text&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>b1118718-4155-4fa5-89ad-69a9af8ffea7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-navigation']/nav/div/div/div/ul/li[2]/button/div/p/span</value>
+      <webElementGuid>b621858e-b3ab-4f12-9b57-417d36b3a859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jours de Fêtes'])[1]/following::span[1]</value>
+      <webElementGuid>2eca4e15-7b92-4abb-90bb-dd48b6fa9509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tous les rayons'])[1]/following::span[2]</value>
+      <webElementGuid>22a1cabe-35de-4b25-886e-16096ba0db6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bio &amp; Ecolo'])[1]/preceding::span[1]</value>
+      <webElementGuid>3a17b71a-fea5-433a-9dd8-60499a677f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fruits &amp; Légumes'])[1]/preceding::span[2]</value>
+      <webElementGuid>abc63d4e-5152-42a1-be02-e4a1afb5a353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button/div/p/span</value>
+      <webElementGuid>e3c74433-ff70-49c8-be2f-f35d650067ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Les Mythiques' or . = 'Les Mythiques')]</value>
+      <webElementGuid>da145b29-3854-472d-a96a-d96c7f3fb079</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

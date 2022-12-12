@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Retirer du panier  Bouches au chocol_5fefbf</name>
+   <tag></tag>
+   <elementGuidId>e4d8e433-10db-412a-b197-ffe2dcbea7a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[286]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2ca8934c-2ba3-4239-b463-61e3707cb576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f8c5fb4-1d39-4eea-9b0a-790842f21d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-stepper-remove cta-cart</value>
+      <webElementGuid>9878f327-4e39-445d-bae6-2c8308b3269b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Retirer du panier  Bouchées au chocolat au lait</value>
+      <webElementGuid>b23d4f5a-01ba-4700-92b4-ba98f9c5d492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vue-portal-target-anBvVME68_1CKvB1oAhqt&quot;)/div[3]/div[@class=&quot;overlay-modal mini-cart -variant-3 -scrolling&quot;]/div[@class=&quot;overlay-inner&quot;]/div[@class=&quot;overlay-content&quot;]/dl[@class=&quot;product-group -variant-1&quot;]/dd[1]/article[@class=&quot;product-card -layout-landscape -clickable&quot;]/div[@class=&quot;card-inner&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-main&quot;]/div[@class=&quot;product-actions -variant-1&quot;]/div[@class=&quot;product-actions-info&quot;]/div[@class=&quot;cart-stepper -active -animating&quot;]/p[@class=&quot;cart-stepper-container&quot;]/button[@class=&quot;cart-stepper-remove cta-cart&quot;]</value>
+      <webElementGuid>c286aee3-6e5f-451a-9044-c3f85a19f409</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[286]</value>
+      <webElementGuid>249e1d6f-740b-4cc6-881c-ebccc6d0f6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[3]/div/div/div/dl[2]/dd/article/div[2]/div/div[2]/div[2]/div[2]/div/p/button</value>
+      <webElementGuid>7cb5a825-e43e-41d1-b895-ed000f4549bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=',74€'])[1]/following::button[1]</value>
+      <webElementGuid>428b97d0-a5e4-421d-8cd9-ee0e33f62a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nouveau prix :'])[7]/following::button[1]</value>
+      <webElementGuid>b713aa58-ea8e-472c-a58b-8e9b819c69fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantité :'])[19]/preceding::button[1]</value>
+      <webElementGuid>e33f073b-4c99-41b6-a1b8-2b04b2e3f375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div[2]/div/p/button</value>
+      <webElementGuid>7744880f-cf59-4525-a1a8-c85afd98ac8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Retirer du panier  Bouchées au chocolat au lait' or . = ' Retirer du panier  Bouchées au chocolat au lait')]</value>
+      <webElementGuid>d72a668b-ffb5-4b64-bb7c-a011fc6dd180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

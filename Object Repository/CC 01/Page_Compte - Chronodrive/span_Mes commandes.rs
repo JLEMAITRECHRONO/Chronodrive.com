@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mes commandes</name>
+   <tag></tag>
+   <elementGuidId>589869d3-a5a3-43cf-89ee-05cc45d0206b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/div[2]/div/div/a[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>befca715-cc54-401f-a53b-bf3ab40ed8cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-cta-label</value>
+      <webElementGuid>10a386bd-d5ab-411b-ace6-c60473ebb52b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mes commandes</value>
+      <webElementGuid>6a45c75b-74b6-47e4-918b-873fe1e52d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;page-layout -full-height&quot;]/div[@class=&quot;account-landing&quot;]/div[@class=&quot;account-landing-content&quot;]/div[@class=&quot;ui-wrapper&quot;]/div[@class=&quot;user-dashboard -landing&quot;]/a[@class=&quot;user-cta -variant-responsive-block -top-radius&quot;]/span[@class=&quot;user-cta-text&quot;]/span[@class=&quot;user-cta-label&quot;]</value>
+      <webElementGuid>4ad2eabe-4d1b-48bc-9add-7110491c6749</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/div[2]/div/div/a[2]/span/span</value>
+      <webElementGuid>20cade01-2e90-4c3d-9e0b-eb0409ba8b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mes achats'])[1]/following::span[2]</value>
+      <webElementGuid>63a637ed-90f0-4bf2-a371-1313acf5b471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Croix'])[2]/following::span[2]</value>
+      <webElementGuid>1bc51dbb-a514-4f66-b23d-074011018a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='de paiement'])[1]/preceding::span[1]</value>
+      <webElementGuid>eb96d2d4-a0ad-4946-bf2c-51a49aa79108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span/span</value>
+      <webElementGuid>6f83db8b-5de4-4bc2-b571-547d986eeaa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mes commandes' or . = 'Mes commandes')]</value>
+      <webElementGuid>7c3e57ab-5395-4e8e-a96e-5897115b6806</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ajouter au panier  Bouches au chocol_38e4f9</name>
+   <tag></tag>
+   <elementGuidId>96898a87-9721-48c7-8b69-a4ee11bd3662</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[247]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#line-15430 > article.product-card.product-grid-card.-layout-fluid.-clickable > div.card-inner > div.card-content > div.card-main > div.product-actions.-variant-1 > div.product-actions-info > div.cart-stepper > p.cart-stepper-container > button.cart-stepper-add.cta-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>99c20b4a-a65b-476c-a279-9b816d942c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>720efc0f-ba3d-4686-9038-7d44e88ed569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-stepper-add cta-cart</value>
+      <webElementGuid>870db233-566d-4d9c-97de-ff42184e55d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ajouter au panier  Bouchées au chocolat au lait</value>
+      <webElementGuid>dfbadaa9-983a-4b74-a037-98da7b4022e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;line-15430&quot;)/article[@class=&quot;product-card product-grid-card -layout-fluid -clickable&quot;]/div[@class=&quot;card-inner&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-main&quot;]/div[@class=&quot;product-actions -variant-1&quot;]/div[@class=&quot;product-actions-info&quot;]/div[@class=&quot;cart-stepper&quot;]/p[@class=&quot;cart-stepper-container&quot;]/button[@class=&quot;cart-stepper-add cta-cart&quot;]</value>
+      <webElementGuid>9c1aed6b-f800-4a08-9c82-35be8f83c931</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[247]</value>
+      <webElementGuid>e80e8e9b-fce4-46db-9b35-68f4c10f6d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='line-15430']/article/div/div/div[2]/div[2]/div[2]/div/p/button[2]</value>
+      <webElementGuid>a0ee82e4-ff12-495b-8cd0-0e8fa62164b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=',74€'])[1]/following::button[2]</value>
+      <webElementGuid>eeb02d97-2b56-4f5f-b8c9-97a13afb84b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Juste pour vous'])[5]/preceding::button[1]</value>
+      <webElementGuid>0503744c-23fb-4f3c-894b-0cfd71f169d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/article/div/div/div[2]/div[2]/div[2]/div/p/button[2]</value>
+      <webElementGuid>6b064edb-3819-426a-b40d-e8a8e455f225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Ajouter au panier  Bouchées au chocolat au lait' or . = ' Ajouter au panier  Bouchées au chocolat au lait')]</value>
+      <webElementGuid>2efd3984-bedf-459d-89a6-de27c72c5613</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Promos</name>
+   <tag></tag>
+   <elementGuidId>1f404f46-7b7a-4d55-b2cf-ca3317182537</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/header/div/div/div[2]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fec808c-8e2b-4120-be2f-a6452fffeffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Promos</value>
+      <webElementGuid>e632b5ff-391f-4c0a-b175-59ec056ebbac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;chronodrive-app&quot;]/header[@class=&quot;site-header -sticky&quot;]/div[@class=&quot;header-banner&quot;]/div[@class=&quot;ui-wrapper&quot;]/div[@class=&quot;header-main&quot;]/a[@class=&quot;cta -desktop-only -promotions&quot;]/span[2]</value>
+      <webElementGuid>5fdf243a-3879-4312-a525-d9470baef150</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/header/div/div/div[2]/a/span[2]</value>
+      <webElementGuid>a319b2dc-143a-48a3-891e-813748fd2ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rayons'])[1]/following::span[2]</value>
+      <webElementGuid>8c486b63-2c38-4334-86ec-27dd39f7789a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Croix'])[1]/following::span[4]</value>
+      <webElementGuid>56398a66-4a02-4a1b-aadf-431e72dcc3c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rechercher'])[1]/preceding::span[1]</value>
+      <webElementGuid>39e5d1d0-c9d2-4d84-9c67-969524dd6c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Réinitialiser'])[1]/preceding::span[2]</value>
+      <webElementGuid>d031f456-5ee0-4607-a1c0-bf704989c135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span[2]</value>
+      <webElementGuid>7b39415f-cd71-4544-84d6-6fe15f87ec9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Promos' or . = 'Promos')]</value>
+      <webElementGuid>5609c7c3-d3ee-44ac-a125-0fd8213b6f7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

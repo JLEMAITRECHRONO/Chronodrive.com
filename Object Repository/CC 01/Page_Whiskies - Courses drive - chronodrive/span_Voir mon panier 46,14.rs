@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Voir mon panier 46,14</name>
+   <tag></tag>
+   <elementGuidId>6ad1869b-a536-4144-ad2f-76b741ebe528</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[3]/div/div/footer/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-cta.-layout-solid.-size-xl.-variant-3 > span.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a428c9a4-b1ce-4507-8ae5-e87577e5a56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c8510413-a883-41d2-adf3-bfeb3b69c318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Voir mon panier : 46,14€</value>
+      <webElementGuid>37c1c8d4-737e-4a46-8cfe-68a75dae8003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vue-portal-target-anBvVME68_1CKvB1oAhqt&quot;)/div[3]/div[@class=&quot;overlay-modal mini-cart -variant-3 -scrolling&quot;]/div[@class=&quot;overlay-inner&quot;]/footer[@class=&quot;overlay-footer&quot;]/a[@class=&quot;ui-cta -layout-solid -size-xl -variant-3&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>ead64183-9b4e-4cae-86a9-11d5339d75a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[3]/div/div/footer/a/span</value>
+      <webElementGuid>f60a4a22-1b16-4add-bc9a-6297a0f404c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voir les produits suggérés'])[12]/following::span[1]</value>
+      <webElementGuid>30722dc5-3caf-472f-ba27-22e7dde8d052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Juste pour vous'])[12]/following::span[3]</value>
+      <webElementGuid>5d393e0e-dcb1-40e4-90fc-3627522143fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/a/span</value>
+      <webElementGuid>a1562911-7aa4-48f2-b4ff-b3042437d2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Voir mon panier : 46,14€' or . = 'Voir mon panier : 46,14€')]</value>
+      <webElementGuid>8da36e48-c039-4f18-91d3-631b5749620a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

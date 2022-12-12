@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ajouter au panier  Whisky old n7</name>
+   <tag></tag>
+   <elementGuidId>265b3ec8-f2fd-457a-a0fe-7ab8ac80650b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[230]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.cart-stepper-add.cta-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b177b5a5-1844-4560-952f-489b17309c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>493fd652-3de9-4937-822c-c2ba3650a8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-stepper-add cta-cart</value>
+      <webElementGuid>253c73e2-7328-4c82-9481-5f00cba2ffb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ajouter au panier  Whisky old n°7</value>
+      <webElementGuid>2d549eea-1c2f-4e46-b4da-33441ab65ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;line-1820&quot;)/article[@class=&quot;product-card product-grid-card -layout-fluid -clickable&quot;]/div[@class=&quot;card-inner&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-main&quot;]/div[@class=&quot;product-actions -variant-1&quot;]/div[@class=&quot;product-actions-info&quot;]/div[@class=&quot;cart-stepper&quot;]/p[@class=&quot;cart-stepper-container&quot;]/button[@class=&quot;cart-stepper-add cta-cart&quot;]</value>
+      <webElementGuid>12140c32-eaf3-4c20-9e1f-167a77d86264</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[230]</value>
+      <webElementGuid>73e9b831-abdd-4206-a3ae-29d1829b475a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='line-1820']/article/div/div/div[2]/div[2]/div[2]/div/p/button[2]</value>
+      <webElementGuid>14352a33-8cc9-41cb-b068-4154992ee201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=',29€'])[1]/following::button[2]</value>
+      <webElementGuid>328adcdc-3a9c-40df-b5df-d9366f022559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Juste pour vous'])[1]/preceding::button[1]</value>
+      <webElementGuid>62c0f73a-2a35-4064-a5de-ca28a61e997c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/button[2]</value>
+      <webElementGuid>532a2ced-02d6-4968-8941-104ea6e0028b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Ajouter au panier  Whisky old n°7' or . = ' Ajouter au panier  Whisky old n°7')]</value>
+      <webElementGuid>37664106-edf4-4c7d-91cc-27b9cbb047e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

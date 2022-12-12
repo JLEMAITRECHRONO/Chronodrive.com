@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Whiskies</name>
+   <tag></tag>
+   <elementGuidId>decb8a24-a91e-4180-9e41-047425cd41d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-category-188561']/div/ul/li/a/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-category-188561 > div.level-3-content > ul > li > a.nav-link.-variant-3 > div.inner > p.text > span.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>02534ec7-5558-4a5b-b5d1-71b08ae97f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b7bac3cd-ba52-4288-826a-0eab5d78a9cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Whiskies</value>
+      <webElementGuid>1d317986-c9e4-4ba1-a012-bdb6aa85d20e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-category-188561&quot;)/div[@class=&quot;level-3-content&quot;]/ul[1]/li[1]/a[@class=&quot;nav-link -variant-3&quot;]/div[@class=&quot;inner&quot;]/p[@class=&quot;text&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>4c5a2af0-c662-4e5a-861c-2e8e3442f763</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-category-188561']/div/ul/li/a/div/p/span</value>
+      <webElementGuid>31d30899-f4ba-4c7c-85ab-2aff4d2ebe90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apéritifs et spiritueux'])[3]/following::span[1]</value>
+      <webElementGuid>383b16df-8921-4c38-a53b-4118972a7f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='retour à la navigation précédente'])[69]/following::span[1]</value>
+      <webElementGuid>7b6f4dcb-b38d-405c-8060-7e53fa4f8eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rhums'])[1]/preceding::span[1]</value>
+      <webElementGuid>014b9cd8-d090-457b-92bf-4bfd8085e132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gins, tequilas et vodkas'])[1]/preceding::span[2]</value>
+      <webElementGuid>dd69c1c5-e57c-41ca-a3a0-1fc4e8552ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div[2]/div[2]/div/ul/li/a/div/p/span</value>
+      <webElementGuid>9f8137ba-2fe5-47db-a6f9-942fd1e7dfbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Whiskies' or . = 'Whiskies')]</value>
+      <webElementGuid>b47577ee-943d-4fe3-9011-0f9debd9d051</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

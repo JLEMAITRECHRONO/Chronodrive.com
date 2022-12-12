@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Voir les rsultats</name>
+   <tag></tag>
+   <elementGuidId>1a918420-38bc-4df0-8606-9474e78da9ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-term-suggestions']/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-cta.-layout-outline.-size-xl.-variant-3 > span.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6cac837a-c525-4a4d-92a4-d17a5c918357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d0332fb6-3fd2-4aa3-a7c1-30bb130182e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Voir les résultats</value>
+      <webElementGuid>f6699d26-a901-4402-a850-b8b9d82c8ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-term-suggestions&quot;)/div[@class=&quot;results-wrapper ui-wrapper -desktop-only&quot;]/div[@class=&quot;results&quot;]/div[@class=&quot;suggestions&quot;]/a[@class=&quot;ui-cta -layout-outline -size-xl -variant-3&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>c7897a9f-1a8a-4843-b0ab-f756429cdccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-term-suggestions']/div/div/div/a/span</value>
+      <webElementGuid>a6ca4612-c3eb-4acb-82b0-e4ff93992eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chocolat'])[6]/following::span[1]</value>
+      <webElementGuid>b39d2103-dcfa-4a83-ae9b-cc05892a55ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MONBANA Trésor de chocolat'])[1]/preceding::span[3]</value>
+      <webElementGuid>a297bd09-b470-4ad3-a0b3-9512a2e9f52e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a/span</value>
+      <webElementGuid>cf8eff3a-30aa-4252-b6f2-9b397edf5577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Voir les résultats' or . = 'Voir les résultats')]</value>
+      <webElementGuid>3546c4a4-89c4-45be-b325-1c02ff2b9d0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

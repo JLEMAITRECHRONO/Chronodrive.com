@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Terminer ma commande</name>
+   <tag></tag>
+   <elementGuidId>8cc00f33-e8d4-40a3-9b98-0297f73bdb80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div/form/div/div/div/div[3]/div[2]/div/div/div[2]/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b4cac2c7-aded-4578-be34-46f01a559116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>47d261d8-37df-4747-b24b-cdb39a0849c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terminer ma commande</value>
+      <webElementGuid>e805af9d-36ac-48c0-8386-3070d3498cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;chronodrive-app&quot;]/main[1]/div[@class=&quot;checkout-page page-layout&quot;]/form[@class=&quot;checkout-page-form&quot;]/div[@class=&quot;checkout-layout&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/div[@class=&quot;checkout-layout-content&quot;]/div[@class=&quot;checkout-layout-aside&quot;]/div[@class=&quot;checkout-layout-aside-main&quot;]/div[@class=&quot;recap-block&quot;]/div[@class=&quot;recap-block-inner&quot;]/div[@class=&quot;button&quot;]/div[@class=&quot;button-inner&quot;]/div[@class=&quot;ui-wrapper -narrow&quot;]/button[@class=&quot;ui-cta -layout-solid -size-l -variant-1&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>cc7b96c6-0b85-43d9-a960-10153912fd97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/form/div/div/div/div[3]/div[2]/div/div/div[2]/div/div/button/span</value>
+      <webElementGuid>15104726-2c48-4273-8335-736528aebf4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je certifie avoir plus de 18 ans (âge minimum pour acheter de l’alcool).'])[1]/following::span[1]</value>
+      <webElementGuid>c4b076d2-4627-48b1-aad1-558d0cbff8be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='conditions générales de vente.'])[1]/following::span[4]</value>
+      <webElementGuid>2b28ce30-a748-4310-8770-e52a1602fde6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interdiction de vente de boissons alcooliques aux mineurs de moins de 18 ans'])[1]/preceding::span[1]</value>
+      <webElementGuid>84b10928-6381-4c02-b373-fbb2a0c0bbf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/span</value>
+      <webElementGuid>4de86586-8b0d-4470-88ca-3fa8aba48939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Terminer ma commande' or . = 'Terminer ma commande')]</value>
+      <webElementGuid>5484946e-8c34-416f-ab56-f082964e166d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

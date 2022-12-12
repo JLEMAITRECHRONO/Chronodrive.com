@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Raisins</name>
+   <tag></tag>
+   <elementGuidId>dff4695e-c671-4722-aed7-1ccd83e433b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-category-16482635']/div/ul/li/a/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-category-16482635 > div.level-3-content > ul > li > a.nav-link.-variant-3 > div.inner > p.text > span.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>964eca90-a295-4df5-be5e-25bf6f28073a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>80a3153f-da06-408b-8ed4-db75c354af6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Raisins</value>
+      <webElementGuid>7a857819-037e-45ef-abaf-7d05f3bc6e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-category-16482635&quot;)/div[@class=&quot;level-3-content&quot;]/ul[1]/li[1]/a[@class=&quot;nav-link -variant-3&quot;]/div[@class=&quot;inner&quot;]/p[@class=&quot;text&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>2a2d7ced-4ec3-49fc-89b7-69454991aed5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-category-16482635']/div/ul/li/a/div/p/span</value>
+      <webElementGuid>07278d54-d408-4acb-a4ff-9a00dfdfb445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fruits'])[2]/following::span[1]</value>
+      <webElementGuid>8ceb10d6-ce0f-45ce-bd77-b86a9747d38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='retour à la navigation précédente'])[20]/following::span[1]</value>
+      <webElementGuid>8b04b7a8-37b5-49d1-ac8f-6c907be1e77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pommes et poires'])[1]/preceding::span[1]</value>
+      <webElementGuid>0326a072-eea1-4338-8ba4-73ad5fdc0043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bananes, kiwis et fruits exotiques'])[1]/preceding::span[2]</value>
+      <webElementGuid>5ac56aa9-170c-485f-a691-78a2bb7d6675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div[2]/div/ul/li/a/div/p/span</value>
+      <webElementGuid>7962bdab-5179-400a-a673-8378ff12ca87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Raisins' or . = 'Raisins')]</value>
+      <webElementGuid>27024333-4a87-40cb-89d6-c2d849d2e6e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

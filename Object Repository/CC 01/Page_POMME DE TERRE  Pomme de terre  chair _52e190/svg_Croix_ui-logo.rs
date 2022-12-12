@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Croix_ui-logo</name>
+   <tag></tag>
+   <elementGuidId>a45a917c-303e-4267-822d-8f01fdf9ffb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.ui-logo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>463e750c-b2c0-40f6-aced-5e64f523e8ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d4a463a8-a1ea-4f24-b742-b1a6caca418b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Chronodrive</value>
+      <webElementGuid>e16f6521-dc64-48f3-b33d-a4f31bf27c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 213 40</value>
+      <webElementGuid>5da54bfe-325d-4be2-b5ce-7885383cb2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-logo</value>
+      <webElementGuid>1dfbcf11-f28b-499e-b474-80680701a36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;chronodrive-app&quot;]/header[@class=&quot;site-header&quot;]/div[@class=&quot;header-banner&quot;]/div[@class=&quot;ui-wrapper&quot;]/div[@class=&quot;header-menu&quot;]/a[@class=&quot;logo nuxt-link-active&quot;]/svg[@class=&quot;ui-logo&quot;]</value>
+      <webElementGuid>688d97c1-d374-4ff3-8a9f-41d5082adf8f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

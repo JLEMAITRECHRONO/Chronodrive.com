@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_RAISIN_product-favorite -editable</name>
+   <tag></tag>
+   <elementGuidId>6c4ab186-0221-4aee-afad-300b3e3d8d20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[222]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.product-favorite.-editable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>02fc8ca1-baca-4e4e-a999-98a2f9aa5a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>641702e3-3b55-4bd3-a263-ba28b38a5d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Ajouter ce produit aux favoris</value>
+      <webElementGuid>2ee25aac-7248-47a2-822b-b6060b55752a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-favorite -editable</value>
+      <webElementGuid>68a8ba2e-18bd-4741-8623-073cd5fe1b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;page-layout product-page&quot;]/div[@class=&quot;product-sheet&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/div[@class=&quot;product-sheet-content&quot;]/div[@class=&quot;product-sheet-main&quot;]/div[@class=&quot;ui-wrapper&quot;]/div[@class=&quot;product-sheet-block -with-card&quot;]/article[@class=&quot;product-card -layout-portrait-sheet&quot;]/div[@class=&quot;card-inner&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-main&quot;]/button[@class=&quot;product-favorite -editable&quot;]</value>
+      <webElementGuid>c81ed05b-c60c-4131-9b93-7816a5e60747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[222]</value>
+      <webElementGuid>f27fcf38-a934-4e47-b672-3bec6703819d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/div[2]/div/div[2]/div/div/article/div/div/div/button</value>
+      <webElementGuid>6a33e359-2533-4a27-9ff5-97d03a7fcfd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RAISIN'])[1]/following::button[1]</value>
+      <webElementGuid>3cec0f4b-d95c-4ccf-a39a-0c6e935b8f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poids ou quantité :'])[1]/preceding::button[1]</value>
+      <webElementGuid>fb8175d9-97e5-4060-91b7-e15b28307657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prix au kg ou au litre :'])[1]/preceding::button[1]</value>
+      <webElementGuid>40d81274-c99b-408b-b297-8b44dd528920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/button</value>
+      <webElementGuid>ed92e8f7-53e7-44af-b004-969af1b3c2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>cf4ac795-5789-404c-852b-5e6a8f4df34c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

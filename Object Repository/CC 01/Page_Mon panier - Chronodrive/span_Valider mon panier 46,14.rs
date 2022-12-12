@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Valider mon panier 46,14</name>
+   <tag></tag>
+   <elementGuidId>562dcf88-9690-45a7-bf4f-ab67472f637e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div/div/div/div/div[3]/div[2]/div/div/div[2]/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-cta.-layout-solid.-size-l.-variant-3 > span.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c1f9461-c7d4-4172-938b-cb4c9cbed8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4cedcdfb-b3f1-4861-8708-602912795742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Valider mon panier : 46,14€</value>
+      <webElementGuid>031746b4-33af-4b76-a076-4c12b888daa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;chronodrive-app&quot;]/main[1]/div[@class=&quot;cart-page page-layout&quot;]/div[@class=&quot;checkout-layout&quot;]/div[@class=&quot;ui-wrapper -desktop-only&quot;]/div[@class=&quot;checkout-layout-content&quot;]/div[@class=&quot;checkout-layout-aside&quot;]/div[@class=&quot;checkout-layout-aside-main&quot;]/div[@class=&quot;recap-block&quot;]/div[@class=&quot;recap-block-inner&quot;]/div[@class=&quot;button&quot;]/div[@class=&quot;button-inner&quot;]/div[@class=&quot;ui-wrapper -narrow&quot;]/a[@class=&quot;ui-cta -layout-solid -size-l -variant-3&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>d2c9d027-f28d-48c4-93b5-22b818100b25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/div/div/div/div[3]/div[2]/div/div/div[2]/div/div/a/span</value>
+      <webElementGuid>ce7ba85a-8f9c-4762-bfe6-5843ff151190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(TVA incluse)'])[1]/following::span[1]</value>
+      <webElementGuid>0e97b670-22e9-4ba8-a84e-8d0ab07b2c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::span[1]</value>
+      <webElementGuid>176fa91b-f24b-4156-ba5a-055fcb417834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vider mon panier'])[1]/preceding::span[2]</value>
+      <webElementGuid>d861ef03-4d40-4868-bdcf-8f1e333d2197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/span</value>
+      <webElementGuid>fef52da5-c135-4142-9ba5-bdfc99388387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Valider mon panier : 46,14€' or . = 'Valider mon panier : 46,14€')]</value>
+      <webElementGuid>4e5d3ac2-e04e-4a60-948c-963efa3608da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

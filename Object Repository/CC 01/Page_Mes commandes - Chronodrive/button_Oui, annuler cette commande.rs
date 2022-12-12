@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Oui, annuler cette commande</name>
+   <tag></tag>
+   <elementGuidId>786e8fe4-f3ba-46eb-b1bc-34f805bbc14f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[228]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-cta.-layout-solid.-size-xl.-variant-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f522cf36-201f-4d31-9926-b191d2ca94bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3dc3e3b2-3546-4419-b9da-f002ce7c0099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-cta -layout-solid -size-xl -variant-3</value>
+      <webElementGuid>9355fbec-d649-4011-8d11-2f3af12e6fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Oui, annuler cette commande </value>
+      <webElementGuid>59553214-b2cf-403a-a2f1-306ff33468f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vue-portal-target-anBvVME68_1CKvB1oAhqt&quot;)/div[9]/div[@class=&quot;overlay-modal overlay-confirmation -variant-2&quot;]/div[@class=&quot;overlay-inner&quot;]/footer[@class=&quot;overlay-footer&quot;]/button[@class=&quot;ui-cta -layout-solid -size-xl -variant-3&quot;]</value>
+      <webElementGuid>c3624db1-f76e-418b-81a9-bfbb0936fbe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[228]</value>
+      <webElementGuid>8c1beda3-d83d-485d-adec-28b863b38550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vue-portal-target-anBvVME68_1CKvB1oAhqt']/div[9]/div/div/footer/button</value>
+      <webElementGuid>53769623-ec06-493c-bfe3-3335395e462d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annuler cette commande ?'])[1]/following::button[1]</value>
+      <webElementGuid>c7e5ed31-95ce-4cb1-8808-910b75a1c52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tous nos drives'])[2]/following::button[1]</value>
+      <webElementGuid>9d9ce261-5cc8-4326-8a45-6e778fb2ff79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annuler'])[1]/preceding::button[1]</value>
+      <webElementGuid>ddaeea1f-909c-4c7e-98df-300076bef13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/button</value>
+      <webElementGuid>59f84343-ce7d-4d7e-8422-f4a31ff8057f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '  Oui, annuler cette commande ' or . = '  Oui, annuler cette commande ')]</value>
+      <webElementGuid>d855a4ed-6466-4dcf-b60f-42157deeefff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
