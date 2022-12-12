@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CC 01/Page_Courses en ligne, faire son drive - Ch_f53ba1/span_Choisir",
+      "brokenLocator": "//div[@id\u003d\u0027vue-portal-target-anBvVME68_1CKvB1oAhqt\u0027]/div[6]/div/div/div/div/div[2]/div/ul/li/div/div[2]/button[2]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Info magasin\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CC 01/Page_Courses en ligne, faire son drive - Ch_f53ba1/span_Choisir_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CC 01/Page_chronodrive  rayon raisins/svg_Retirer du panier  Raisin blanc sans pp_aedfe6",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "button.cart-stepper-add.cta-cart \u003e svg.ui-icon.-size-32",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CC 01/Page_chronodrive  rayon raisins/svg_Retirer du panier  Raisin blanc sans pp_aedfe6_CSS.png"
+    }
+  ]
+}
