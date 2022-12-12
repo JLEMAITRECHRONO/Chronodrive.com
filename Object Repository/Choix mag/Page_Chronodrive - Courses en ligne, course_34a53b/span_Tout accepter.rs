@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tout accepter</name>
+   <tag></tag>
+   <elementGuidId>072f4501-a1e2-4652-9b4b-f846777024fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='didomi-notice-agree-button']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#didomi-notice-agree-button > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6022b6d3-5bfe-4da8-a7e5-09145916fb40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tout accepter</value>
+      <webElementGuid>4b054ce7-20d6-40ad-bef2-ab0bafec44e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;didomi-notice-agree-button&quot;)/span[1]</value>
+      <webElementGuid>dc9bca87-3b58-44c9-8804-bcae99fe6f10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='didomi-notice-agree-button']/span</value>
+      <webElementGuid>a73c9df4-5543-4a6a-86f9-e9f84cc12caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paramétrer mes choix'])[1]/following::span[1]</value>
+      <webElementGuid>66c4030a-cdea-4e31-9057-ca945f95702e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voir nos partenaires'])[1]/following::span[2]</value>
+      <webElementGuid>dad345d4-01df-4778-8cb7-bedf5f5f90c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contenu principal'])[1]/preceding::span[1]</value>
+      <webElementGuid>0a6d4bf8-85a3-490b-9fed-28a78a13aa2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choisir mon chrono'])[1]/preceding::span[1]</value>
+      <webElementGuid>5b45744b-3acb-4648-b56f-f63891174d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>bffa0f0d-96ac-403a-9c48-2dcc868bd3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tout accepter' or . = 'Tout accepter')]</value>
+      <webElementGuid>74f29103-54c5-471e-a328-ca1a97cbbfbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
